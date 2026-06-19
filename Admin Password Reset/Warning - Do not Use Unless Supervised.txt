@@ -1,0 +1,13 @@
+Warning - Do not Perform Without Change Request
+
+Imp: This script should not be run multiple times
+If failed, the password should be reset from CLI or GUI
+Passwords should be backed up into multiple files
+Password should be uniform across devices to be able to run other scripts
+
+The only intention of this script is to get rid of the repetative nature of the activity
+Do not use without prior approval
+
+
+Check logs as prompted by powershell
+Happy Automating!!
